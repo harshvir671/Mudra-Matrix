@@ -9,7 +9,7 @@ At the core of Mudra Matrix is a deep learning model—typically a convolutional
 
 
 
-
+###
 KEY FEATURES:
 #
 Automated Mudra Detection: Recognizes static and dynamic mudras from images or live video feed.
