@@ -7,8 +7,8 @@ Project Mudra Matrix is an AI-driven system designed to automatically recognize,
 
 At the core of Mudra Matrix is a deep learning model—typically a convolutional neural network (CNN), 3D-CNN, or a transformer-based vision model—trained on annotated images or video sequences of various mudras. The system processes visual input, identifies key hand landmarks or skeletal points, and predicts the corresponding mudra label with high accuracy. By leveraging techniques like pose estimation, temporal modeling, and data augmentation, the project ensures reliable performance even under varying lighting, backgrounds, or camera angles.
 
-Key Features
-
+**Key Features
+**
 Automated Mudra Detection: Recognizes static and dynamic mudras from images or live video feed.
 
 Hand Pose Estimation: Uses landmark detection to understand finger positions and joint orientations.
@@ -19,8 +19,8 @@ Real-Time Feedback: Provides instant recognition results for interactive applica
 
 Scalability: Easily add new mudras or gesture sets through retraining or fine-tuning.
 
-Applications
-
+**Applications
+**
 Digital training tools for classical dance learners (e.g., Bharatanatyam, Kathak)
 
 Yoga and mindfulness apps that detect and correct hand positions
