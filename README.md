@@ -25,7 +25,7 @@ Scalability: Easily add new mudras or gesture sets through retraining or fine-tu
 
 
 
-APPLICAIONS:
+APPLICATIONS:
 #
 Digital training tools for classical dance learners (e.g., Bharatanatyam, Kathak)
 
